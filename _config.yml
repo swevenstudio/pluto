@@ -4,7 +4,7 @@
     <base href="http://web.eiiku.com/geren_litikongjian/" />
   
   <title>SwevenPluto</title>
-  <script src="js/jrj6out.js"></script>
+    <script src="js/jrj6out.js"></script>
 <script>try{Typekit.load({ async: false });}catch(e){}</script>
   
 
